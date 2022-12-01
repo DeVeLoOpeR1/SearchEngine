@@ -1,0 +1,33 @@
+body{
+text-align : center;
+background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+}
+button{
+background-color:green;
+color:white;
+padding:10px 20px;
+border-radius:5px;
+cursor:pointer;
+font-size:14px;
+margin:0px 0px 0px 20px;
+}
+input[type=text]{
+border:2px solid green;
+padding:10px 20px;
+border-radius:5px;
+width:40%;
+}
+h1{
+font-size:40px;
+padding:20px 0px 0px 0px;
+}
+.search{
+display: inline-block;
+text-align:center;
+}
+.history {
+position: absolute;
+  top: 100px;
+  right: 210px;
+}
